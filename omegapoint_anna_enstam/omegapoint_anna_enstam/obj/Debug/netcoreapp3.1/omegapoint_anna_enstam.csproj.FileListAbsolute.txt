@@ -1,0 +1,13 @@
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/bin/Debug/netcoreapp3.1/omegapoint_anna_enstam.deps.json
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/bin/Debug/netcoreapp3.1/omegapoint_anna_enstam.runtimeconfig.json
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/bin/Debug/netcoreapp3.1/omegapoint_anna_enstam.runtimeconfig.dev.json
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/bin/Debug/netcoreapp3.1/omegapoint_anna_enstam.dll
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/bin/Debug/netcoreapp3.1/omegapoint_anna_enstam.pdb
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.csproj.AssemblyReference.cache
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.AssemblyInfoInputs.cache
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.AssemblyInfo.cs
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.csproj.CoreCompileInputs.cache
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.dll
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.pdb
+/Users/anna/Documents/Omegapoint/omegapoint_anna_enstam/omegapoint_anna_enstam/obj/Debug/netcoreapp3.1/omegapoint_anna_enstam.genruntimeconfig.cache
